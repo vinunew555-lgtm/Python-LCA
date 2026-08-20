@@ -1,2 +1,2 @@
 # Python-LCA
-All the class assignments alloted . 
+This repository contains all the assignments done in the LCA .
